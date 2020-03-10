@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2.Api", "WebApplication2.Api\WebApplication2.Api.csproj", "{04EE9C2C-CAE5-45CB-98C8-42A19C96E3EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAuthentication.Server", "ApiAuthentication.Server\ApiAuthentication.Server.csproj", "{04EE9C2C-CAE5-45CB-98C8-42A19C96E3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{3A034C2D-9AE9-424B-AE21-67D357FA70B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAuthentication.Api", "ApiAuthentication.Api\ApiAuthentication.Api.csproj", "{3A034C2D-9AE9-424B-AE21-67D357FA70B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{77F94D7B-1E4E-4664-856F-11FBEFD68F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAuthentication.Client", "ApiAuthentication.Client\ApiAuthentication.Client.csproj", "{77F94D7B-1E4E-4664-856F-11FBEFD68F82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
